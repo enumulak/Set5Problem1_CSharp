@@ -1,0 +1,14 @@
+C:\Users\Enumula\source\repos\Set5Problem1_CSharp\Set5Problem1_CSharp\bin\Debug\Set5Problem1_CSharp.exe.config
+C:\Users\Enumula\source\repos\Set5Problem1_CSharp\Set5Problem1_CSharp\bin\Debug\Set5Problem1_CSharp.exe
+C:\Users\Enumula\source\repos\Set5Problem1_CSharp\Set5Problem1_CSharp\bin\Debug\Set5Problem1_CSharp.pdb
+C:\Users\Enumula\source\repos\Set5Problem1_CSharp\Set5Problem1_CSharp\obj\Debug\Set5Problem1_CSharp.csprojAssemblyReference.cache
+C:\Users\Enumula\source\repos\Set5Problem1_CSharp\Set5Problem1_CSharp\obj\Debug\Set5Problem1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Enumula\source\repos\Set5Problem1_CSharp\Set5Problem1_CSharp\obj\Debug\Set5Problem1_CSharp.exe
+C:\Users\Enumula\source\repos\Set5Problem1_CSharp\Set5Problem1_CSharp\obj\Debug\Set5Problem1_CSharp.pdb
+C:\Users\Enumula Kartik\documents\visual studio 2017\Projects\Set5Problem1_CSharp\Set5Problem1_CSharp\bin\Debug\Set5Problem1_CSharp.exe.config
+C:\Users\Enumula Kartik\documents\visual studio 2017\Projects\Set5Problem1_CSharp\Set5Problem1_CSharp\bin\Debug\Set5Problem1_CSharp.exe
+C:\Users\Enumula Kartik\documents\visual studio 2017\Projects\Set5Problem1_CSharp\Set5Problem1_CSharp\bin\Debug\Set5Problem1_CSharp.pdb
+C:\Users\Enumula Kartik\documents\visual studio 2017\Projects\Set5Problem1_CSharp\Set5Problem1_CSharp\obj\Debug\Set5Problem1_CSharp.csprojAssemblyReference.cache
+C:\Users\Enumula Kartik\documents\visual studio 2017\Projects\Set5Problem1_CSharp\Set5Problem1_CSharp\obj\Debug\Set5Problem1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Enumula Kartik\documents\visual studio 2017\Projects\Set5Problem1_CSharp\Set5Problem1_CSharp\obj\Debug\Set5Problem1_CSharp.exe
+C:\Users\Enumula Kartik\documents\visual studio 2017\Projects\Set5Problem1_CSharp\Set5Problem1_CSharp\obj\Debug\Set5Problem1_CSharp.pdb
